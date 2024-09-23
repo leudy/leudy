@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, FullStack "FrontEnd, Backend", Mobile Dev. Flutter, ReactNavitve, Ionic.
 - 🌱 I’m currently learning Web3, Ethereum, BlockChain and others...
 - 💞️ I’m looking to collaborate on new soluction tecnology
-- 📫 How to reach me whatsapp on linkein https://www.linkedin.com/in/leudy-rosario/
+- 📫 How to reach me whatsapp on 18294716719
 
 <!---
 leudy/leudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
